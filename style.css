@@ -2,20 +2,17 @@ body{
 background-color: black;
 color:white;
 font-family: "Savate",sans-serif;
-}
+{
  h2 {font: size 30px; 
 } 
-p {font-size: 20pc;
+p {font-size: 20px;
     margin: 0px;
 }
-
 header{
     border-bottom: solid 3px rgb(42, 122, 228);
 }
-
 h1{
     font-size: 30px;
-
 p{
     font-size: 20px;
 }
