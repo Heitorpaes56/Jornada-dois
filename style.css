@@ -21,3 +21,10 @@ header {
 h1 {
     font-size: 30px;
 }
+section{
+    background-color:rgb(red, green, blue) 184, 156, 213;
+    padding-bottom: 80;
+    pointer-events: 80;
+    display - flex: 
+    justify. content: center;
+}
