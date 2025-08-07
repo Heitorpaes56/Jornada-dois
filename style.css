@@ -40,4 +40,7 @@ section {
 img{
     height: 200px;
 }
-    
+ .cotegoria-videos   {
+    display: flex;
+    overflow-x: auto ;
+ }
