@@ -43,4 +43,7 @@ img{
  .cotegoria-videos   {
     display: flex;
     overflow-x: auto ;
+    gap: 10px;
+    padding: left;
+    padding-right: 20px;
  }
