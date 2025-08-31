@@ -1,0 +1,55 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Currículo Vitae - Heitor Rodrigues Paes</Professsor>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Heitor Rodrigues Paes</h1>
+        <p>Rio Branco do Sul, Paraná - Brasil</p>
+        <p>Email: heitor_rodriguespaes@hotmail.com | Telefone: (41) 920024851</p>
+    </header>
+
+    <section>
+        <h2>Experiência Profissional</h2>
+        <ul>
+            <li>
+                <strong>Professsor </strong> — Licenciatura Letras Libras (2022–2025)<br>
+                Desenvolvimento de alunos da educação fundamental 2 e medio
+            </li>
+            <li>
+                <strong>Assistente Técnico Administrativo</strong> — Educacao (2018–2020)<br>
+                Atendimento a alunos da educacao especial e manutenção de sistemas.
+            </li>
+            <li>
+                <strong>Estagiário em educacao</strong> — Prefeitura de Rio Branco do Sul (2017–2018)<br>
+                Apoio na organização de atividades para alunos da eucacao basica
+            </li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Histórico Escolar</h2>
+        <ul>
+            <li><strong>Curso Técnico em Informática</strong> — jaraltraining (2022–2023)</li>
+            <li><strong>Ensino Médio</strong> — Colégio Estadual Manoel Borges de Macedo (2009–2012)</li>
+        </ul>
+        <h2>Histórico Escolar</h2>
+        <ul>
+            <li><strong>Pós-graduação em Educação</strong> — Unicessumar (2023–2024)</li>
+            <li><strong>Graduação e Licenciatura em Letras</strong> — Universidade Oeste do Paraná (2018–2022)</li>
+            <li><strong>Mestrado na Educacao</strong> — Must Universyt (2020–2022)</li>
+            
+        </ul>
+    </section>
+
+
+
+    </section>
+
+    <footer>
+        <p>© 2025 Heitor Rodrigues Paes</p>
+    </footer>
+</body>
+</html>
